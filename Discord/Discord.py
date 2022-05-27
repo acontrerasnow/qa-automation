@@ -8,7 +8,7 @@ import requests
 # #=========================================================================
 
 def Report_Discord(content):
-    url = 'https://discord.com/api/webhooks/939009660848054333/beLjectYQLrei21WdnMdxtaPemzKXniGgT8pk0VhGOU9s12tDixXBNK7j54PHUEnSsFQ'
+    url = ''
     data = {
         "content": content
     }

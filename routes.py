@@ -1,3 +1,3 @@
 class route():
-        url_base = 'https://site.com'
-        login_url = url_base + '/ingreso'
+        url_base = 'https://www.stantonoptical.com'
+        login_url = url_base + '/my-account'
